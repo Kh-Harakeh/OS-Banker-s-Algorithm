@@ -1,3 +1,5 @@
+## **Banker's Algorithm Implementation**
+
 The simulation of the Banker's Algorithm is founded on the principles of resource allocation using Python to prevent deadlocks in operating systems. This simulation encompasses a multi-threaded implementation aimed at acknowledging race conditions, thereby creating a more authentic and challenging environment. Through the utilization of locks and thread safety mechanisms, the simulation effectively handles resource requests originating from various processes concurrently to demonstrate the proficiency of the Banker algorithm and resource management comprehensively.
 
 Project Overview and Implementation Guidelines:
